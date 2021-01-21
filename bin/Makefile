@@ -1,2 +1,2 @@
 all:
-     g++ ../src/main.cpp -o queue
+	g++ ../src/main.cpp -o queue
